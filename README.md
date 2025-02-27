@@ -1,9 +1,4 @@
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFFF&pause=1000&width=435&lines=Hi+there!+I'm+Volodymyr+Boiko!">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&pause=1000&width=435&lines=Hi+there!+I'm+Volodymyr+Boiko!">
-  <img alt="Hi there! I'm Volodymyr Boiko!" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Volodymyr+Boiko!">
-</picture>
+#  Hi there! I'm Volodymyr Boiko!
 
 💻 **Full Stack Developer** | 🧠 **Tech Enthusiast** | 🎯 **Passionate Problem Solver**  
 ⚡ **Performance-Driven Coder** | 🔍 **Detail-Oriented Engineer** | 💡 **Creative Thinker**  
