@@ -26,6 +26,8 @@
 
 🔥 **Building the future, one line of code at a time!**
 
+✨ Currently shaping [Valdesio](https://valdesio.pages.dev) 🌐 — an evolving ecosystem where open source projects come to life!
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/volodymyr-boiko2002/volodymyr-boiko2002/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/volodymyr-boiko2002/volodymyr-boiko2002/output/github-snake.svg" />
